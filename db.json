@@ -1,0 +1,14 @@
+[
+  {
+    "user": "Dan",
+    "post": "This is Dan"
+  },
+  {
+    "user": "NotDan",
+    "post": "This is NotDan"
+  },
+  {
+    "user": "WhyDan",
+    "post": "This is WhyDan"
+  },
+]
