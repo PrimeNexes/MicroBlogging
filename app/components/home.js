@@ -51,7 +51,7 @@ export default function Home(props) {
     const profileTitle = (name)=>{
         return (
         <View style={{flex: 1, flexDirection: 'row'}}>
-        <View style={{margin:'8px'}}>
+        <View style={{margin:8}}>
         <Avatar
         rounded
         source={{
@@ -101,8 +101,8 @@ export default function Home(props) {
         return (
             <View style={{backgroundColor: '#F5F5F5',flex: 1,
             flexDirection: 'column',
-            marginTop:'8px',
-            margin:'12px'}}>
+            marginTop:8,
+            margin:12}}>
             <Button
         title="Post"
         onPress={() => {    

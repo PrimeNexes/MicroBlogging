@@ -69,10 +69,7 @@ export default function Post(props) {
 
 const styles = StyleSheet.create({
     container: {backgroundColor: '#F5F5F5',flex: 1,
-    flexDirection: 'column',
-    justifyContent: 'center',
-    marginTop:'8px',
-    alignItems:'center'},
+    marginTop:8,},
 
 
 });
